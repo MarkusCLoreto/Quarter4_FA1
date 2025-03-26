@@ -1,0 +1,47 @@
+h1,p,li {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#r{
+    background-color: rgb(208, 228, 183);
+    padding: 10px;
+    width: auto;
+
+}
+#a{
+    margin: auto;
+    width: 900px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border: .5px solid rgb(153, 153, 153);
+    padding-bottom: 15px;
+    font-family: Arial, sans-serif;
+    
+}
+
+#b{
+    margin: auto;
+    width: 850px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border: .5px solid rgb(153, 153, 153);
+    padding: 25px;
+    font-family: Arial, sans-serif;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+
+#buttonS{
+    background-color: lightgreen;
+}
+
+#buttonR{
+    background-color: rgb(245, 75, 75);
+}
